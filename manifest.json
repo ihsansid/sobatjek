@@ -1,7 +1,7 @@
 {
   "name": "SOBATJEK",
   "short_name": "SOBATJEK",
-  "start_url": "https://sobatjek.my.id",
+  "start_url": "https://sobatjek.my.id/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#00ABE1",
